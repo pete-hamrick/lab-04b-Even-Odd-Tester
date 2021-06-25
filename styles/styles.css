@@ -33,3 +33,13 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.hidden {
+    display: none;
+}
