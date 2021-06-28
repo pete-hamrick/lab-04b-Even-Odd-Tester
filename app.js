@@ -1,6 +1,5 @@
-// import functions
 import { isEven } from '../is-even.js';
-// reference needed DOM elements
+
 const numInput = document.getElementById('num-input');
 const evenImg = document.getElementById('even-img');
 const oddImg = document.getElementById('odd-img');
@@ -22,10 +21,6 @@ function showImage(result) {
         }, 3000);
     }
 }
-// set event listeners 
-  // get user input(s)
-  // do any needed work with the value(s)
-  // update DOM to reflect new value(s)
 
 
 button.addEventListener('click', ()=> {
