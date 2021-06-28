@@ -1,5 +1,5 @@
 // import functions
-import { isEven, isOdd } from '../is-even.js';
+import { isEven } from '../is-even.js';
 // reference needed DOM elements
 const numInput = document.getElementById('num-input');
 const evenImg = document.getElementById('even-img');
