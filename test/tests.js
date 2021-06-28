@@ -27,4 +27,4 @@ test('Is this odd?', (expect) => {
     const actual = isOdd(7);
 
     expect.equal(actual, expected);
-})
+});
