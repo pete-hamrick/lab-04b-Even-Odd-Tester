@@ -1,4 +1,4 @@
-import { isEven } from '../is-even.js';
+import { isEven } from './is-even.js';
 
 const numInput = document.getElementById('num-input');
 const evenImg = document.getElementById('even-img');
